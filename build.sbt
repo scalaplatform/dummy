@@ -1,6 +1,6 @@
 name := "dummy"
 
-version := "1.0"
+// Version should always be defined in 0.1
 
 scalaVersion := "2.11.8"
     
