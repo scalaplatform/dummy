@@ -1,9 +1,7 @@
 name := "dummy"
 
-// Version should always be defined in 0.1
-
+// Don't define module version here
 scalaVersion := "2.11.8"
-    
 libraryDependencies += "org.scalatest" % "scalatest_2.11" % "3.0.0" % "test"
 
 // add temporary task until the sbt release plugin is ready
